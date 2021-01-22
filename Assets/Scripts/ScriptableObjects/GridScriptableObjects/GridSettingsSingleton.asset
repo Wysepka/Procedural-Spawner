@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1471ddb778423f8428f0c1e51665a06d, type: 3}
+  m_Name: GridSettingsSingleton
+  m_EditorClassIdentifier: 
+  gridCubeDimensions: {x: 1, y: 1, z: 1}
+  gridNoiseScaler: 24.199026
+  gridCubeInitializeData:
+    gridFaceIDMaterial:
+      reorderableList:
+        canAdd: 1
+        canRemove: 1
+        draggable: 1
+        expandable: 1
+        multipleSelection: 1
+        isExpanded: 1
+        label:
+          m_Text: Keys
+          m_Image: {fileID: 0}
+          m_Tooltip: 
+        headerHeight: 18
+        footerHeight: 13
+        slideEasing: 0.15
+        verticalSpacing: 2
+        showDefaultBackground: 1
+        elementDisplayType: 0
+        elementNameProperty: 
+        elementNameOverride: 
+        elementIcon: {fileID: 0}
+      reqReferences: {fileID: 0}
+      isExpanded: 1
+      _keyValues: 000000000200000003000000040000000500000001000000
+      _keys: 000000000200000003000000040000000500000001000000
+      _values:
+      - {fileID: 2100000, guid: 14439d8963a96d146b1d85f7016d3687, type: 2}
+      - {fileID: 2100000, guid: 14439d8963a96d146b1d85f7016d3687, type: 2}
+      - {fileID: 2100000, guid: 14439d8963a96d146b1d85f7016d3687, type: 2}
+      - {fileID: 2100000, guid: 14439d8963a96d146b1d85f7016d3687, type: 2}
+      - {fileID: 2100000, guid: 14439d8963a96d146b1d85f7016d3687, type: 2}
+      - {fileID: 2100000, guid: 14439d8963a96d146b1d85f7016d3687, type: 2}
+  gridCubeDimensions_u: {x: 1, y: 1, z: 1}
+  gridNoiseScaler_u: 71.8045
+  gridColors:
+  - {r: 0.13277555, g: 0.9, b: 0, a: 0}
+  - {r: 0.9, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0.22404146, b: 0.9, a: 0}
+  - {r: 0.9056604, g: 0.895512, b: 0, a: 0}
+  - {r: 0.9339623, g: 0, b: 0.7419242, a: 0}
+  - {r: 0.8679245, g: 0.5350921, b: 0.0114631085, a: 0}
+  gridCubeInitializeData_u:
+    gridFaceIDMaterial:
+      reorderableList:
+        canAdd: 1
+        canRemove: 1
+        draggable: 1
+        expandable: 1
+        multipleSelection: 1
+        isExpanded: 1
+        label:
+          m_Text: Keys
+          m_Image: {fileID: 0}
+          m_Tooltip: 
+        headerHeight: 18
+        footerHeight: 13
+        slideEasing: 0.15
+        verticalSpacing: 2
+        showDefaultBackground: 1
+        elementDisplayType: 0
+        elementNameProperty: 
+        elementNameOverride: 
+        elementIcon: {fileID: 0}
+      reqReferences: {fileID: 0}
+      isExpanded: 1
+      _keyValues: 000000000500000004000000020000000300000001000000
+      _keys: 000000000500000004000000020000000300000001000000
+      _values:
+      - {fileID: 2100000, guid: 3e57a1d93d3bd864387af89cafe7d917, type: 2}
+      - {fileID: 2100000, guid: 3e57a1d93d3bd864387af89cafe7d917, type: 2}
+      - {fileID: 2100000, guid: 3e57a1d93d3bd864387af89cafe7d917, type: 2}
+      - {fileID: 2100000, guid: 3e57a1d93d3bd864387af89cafe7d917, type: 2}
+      - {fileID: 2100000, guid: 3e57a1d93d3bd864387af89cafe7d917, type: 2}
+      - {fileID: 2100000, guid: 3e57a1d93d3bd864387af89cafe7d917, type: 2}
+  defaultMaterial: {fileID: 2100000, guid: 3e57a1d93d3bd864387af89cafe7d917, type: 2}
+  gridPreferences:
+    seperateState: 1
